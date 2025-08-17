@@ -6,12 +6,6 @@ This repository demonstrates **Mesh Gradients in Jetpack Compose**, exploring th
 
 ---
 
-## 📹 Demo Video
-
-👉 [Watch the Mesh Gradients Demo on YouTube](https://youtu.be/C7iq8m2dQOo?si=n-EicltONHEyz0hD)
-
----
-
 ## ✨ What’s Inside
 
 * ✅ Mesh Gradients implementation in **Jetpack Compose**.
@@ -22,6 +16,15 @@ This repository demonstrates **Mesh Gradients in Jetpack Compose**, exploring th
 
 ---
 
+## 📹 Demo Video
+
+
+
+https://github.com/user-attachments/assets/bf321a79-47a6-4b40-a42e-42f7ff2fde6d
+
+
+
+---
 ## 📂 Code Locations
 
 * 🔘 **Button Mesh Gradient** → `practice/Sample6.kt`
@@ -70,11 +73,6 @@ While this project **only uses @sinasamaki’s modifier**, there is also a 3rd-p
 
 ---
 
-## 🎥 Demo Preview
-
-*(You can upload your demo video/gif here, e.g. `/preview/demo.mp4` or a gif)*
-
----
 
 ## ⭐ Support
 
