@@ -12,7 +12,7 @@ This repository demonstrates **Mesh Gradients in Jetpack Compose**, exploring th
 * ✅ Using **@sinasamaki’s Mesh Gradient Modifier** ([article](https://www.sinasamaki.com/mesh-gradients-in-jetpack-compose/), [video](https://youtu.be/C7iq8m2dQOo?si=n-EicltONHEyz0hD)).
 * ✅ Demonstrated gradients on **custom UI components** (Cards, Buttons, etc.).
 * ✅ Built **responsive custom shapes** with the Canvas API.
-* ✅ Added a **helper class for CouponShape** (with arc cutouts).
+* ✅ Added a **helper class for CouponShape** (with arc cutouts)
 
 ---
 
